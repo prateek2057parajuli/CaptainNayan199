@@ -34,3 +34,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=captainnayan199&show_icons=true&locale=en" alt="captainnayan199" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=captainnayan199&" alt="captainnayan199" /></p>
+
+## Please Mr. Python don't eat my Graph 🥲💔
+
+![snake gif](https://github.com/CaptainNayan199/CaptainNayan199/blob/output/github-contribution-grid-snake.gif)
+
