@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=captainnayan199&label=Profile%20views&color=0e75b6&style=flat" alt="captainnayan199" /> </p>
 
-- 🌱 I’m currently learning **Python , Dart, JS,**
+- 🌱 I’m currently learning **Python , Dart, JS**
 
 - 👨‍💻 All of my projects are available at [pathaknayan.com.np](pathaknayan.com.np)
 
