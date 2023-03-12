@@ -73,6 +73,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=CaptainNayan199&theme=matrix&no-frame=false&no-bg=true&margin-w=4)
 <hr>
 
-<p style="font-size:15px;color:#FFFF00;" >Please Mr. Python 🐍 don't eat my contribution Graph 🥲💔</p>
+<p style="font-size:15px;color:#FFFF00; " >** Please Mr. Python 🐍 don't eat my contribution Graph 🥲💔 **</p>
+
+![snake gif](https://github.com/CaptainNayan199/CaptainNayan199/blob/output/github-contribution-grid-snake.gif)
 
 
