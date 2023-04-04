@@ -46,7 +46,9 @@
 <br>
 <br>
 <br>
+<br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=captainnayan199&show_icons=true&locale=en" alt="captainnayan199" /></p>
+<br>
 <br>
 <br>
 <br>
